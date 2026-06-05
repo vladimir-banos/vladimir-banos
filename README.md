@@ -1,16 +1,19 @@
-## Hi there 👋
+# Vladimir Baños
 
-<!--
-**vladimir-banos/vladimir-banos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economics student at Universidad de Piura (UDEP) · Piura, Peru
 
-Here are some ideas to get you started:
+## Research interests
+- Applied microeconomics and impact evaluation
+- Industrial organization and competition policy
+- Development economics in Peru and Latin America
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current position
+Research Assistant
+Working with ENAHO, ENDES survey data · Stata · Python · R
+
+## Tools
+Stata · Python · R · LaTeX · GitHub
+
+## Contact
+📧 hristo.banos@alum.udep.edu.pe  
+🌐 Website coming soon
