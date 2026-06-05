@@ -17,4 +17,4 @@ Stata · Python · R · LaTeX · GitHub
 
 ## Contact
 📧 hristo.banos@alum.udep.edu.pe  
-🌐 Website coming soon
+🌐 [vladimir-banos.github.io](https://vladimir-banos.github.io)
