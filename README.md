@@ -9,6 +9,7 @@ Economics student at Universidad de Piura (UDEP) · Piura, Peru
 
 ## Current position
 Research Assistant
+
 Working with ENAHO, ENDES survey data · Stata · Python · R
 
 ## Tools
